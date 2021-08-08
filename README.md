@@ -3,4 +3,4 @@ Adds a random tiddler button to TiddlyWiki's page toolbar. To install simply imp
 
 ![image](Screenshot.png)
 
-Requires Tobibeer's random plugin (https://tobibeer.github.io/tw5-plugins/#random) and TheDiveO's TW5FontAwesome plugin (https://github.com/TheDiveO/TW5FontAwesome).
+Requires Tobibeer's random plugin (https://tobibeer.github.io/tw5-plugins/#random).
