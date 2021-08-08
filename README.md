@@ -1,5 +1,5 @@
 # TW5RandomTiddlerButton
-Adds a random tiddler button to TiddlyWiki's page toolbar. To install simply import https://github.com/SonephetR2/TW5-randomtiddlerbutton/blob/main/%24__plugins_kiasu_randomtiddlerbutton.tid to your TiddlyWiki, or navigate to http://sonephetr2.github.io/ and drag and drop the plugin to your Tiddlywiki.
+Adds a random tiddler button to TiddlyWiki's page toolbar. To install simply import https://github.com/SonephetR2/TW5RandomTiddlerButton/blob/main/%24__plugins_kiasu_randomtiddlerbutton.tid to your TiddlyWiki, or navigate to http://sonephetr2.github.io/ and drag and drop the plugin to your Tiddlywiki.
 
 ![image](Screenshot.png)
 
